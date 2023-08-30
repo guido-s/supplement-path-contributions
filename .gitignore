@@ -1,0 +1,8 @@
+*~
+*.bak
+*.pdf
+.DS_Store
+.Rhistory
+.Rproj.user
+.RData
+.Ruserdata
