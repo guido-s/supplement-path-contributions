@@ -16,7 +16,7 @@ The following supporting information is provided:
    (*Linde2016-randomwalks-result.rda*).
 
 4. R data file with results for L1 solution using R package **cccp**
-   (*Linde2016-L1result.rda*).
+   (*Linde2016-L1-result.rda*).
 
 5. R data file with results for pseudoinverse / L2 solution
-   (*Linde2016-L2result.rda*).
+   (*Linde2016-L2-result.rda*).
